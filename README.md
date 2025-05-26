@@ -74,7 +74,7 @@ npm install react-icons
 -----
 ![Screenshot 2025-05-26 123310](https://github.com/user-attachments/assets/a461f561-317e-4961-991d-fa0254541d70)
 ----
-![Screenshot 2025-05-26 123319](https://github.com/user-attachments/assets/924af5ca-b08b-4fff-b29d-efc263005c92)
+![image](https://github.com/user-attachments/assets/2291a91c-ace4-4600-9b95-76eb3d35ec2c)
 ---
 
 
