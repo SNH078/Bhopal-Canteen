@@ -61,6 +61,8 @@ npm i
 react-bootstrap.com => npm install react-bootstrap bootstrap
 npm i react-router-dom
  material UI installation by npm ( visit site- documentation)
+npm install react-icons
+
 ```
 ------------------------------
 
