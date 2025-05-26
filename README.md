@@ -23,7 +23,7 @@ An interactive online food ordering UI built with **React**, **Vite**, **Redux**
 
 ```
 bash
-git clone https://github.com/your-username/bhopal-canteen.git
+git clone https://github.com/SNH078/Bhopal-Canteen
 cd bhopal-canteen
 npm install
 npm run dev
