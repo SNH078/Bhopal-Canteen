@@ -1,7 +1,7 @@
 # Bhopal Canteen 🍽️
 
 An interactive online food ordering UI built with **React**, **Vite**, **Redux**, **React Router**, **Tailwind CSS**, **Material UI**, and **React Bootstrap**.
-![Screenshot 2025-05-26 123245](https://github.com/user-attachments/assets/dcb5de3e-64a3-4956-8e15-4d237e1ee89d)
+![Screenshot 2025-05-26 123222](https://github.com/user-attachments/assets/70939b0c-8f8e-4ca4-a686-d0e4c34d3491)
 ## 🚀 Features
 
 - View and browse regional food items.
