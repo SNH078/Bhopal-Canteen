@@ -1,5 +1,45 @@
+# Bhopal Canteen 🍽️
+
+An interactive online food ordering UI built with **React**, **Vite**, **Redux**, **React Router**, **Tailwind CSS**, **Material UI**, and **React Bootstrap**.
+![Screenshot 2025-05-26 123245](https://github.com/user-attachments/assets/dcb5de3e-64a3-4956-8e15-4d237e1ee89d)
+## 🚀 Features
+
+- View and browse regional food items.
+- Add items to cart and view real-time updates.
+- Minimal and responsive UI using Tailwind and MUI.
+- State managed using Redux.
+- React Router-based navigation.
+- Vite for fast development and build performance.
+
+## 🛠️ Tech Stack
+
+- ⚛️ React + Vite
+- 🧠 Redux Toolkit
+- 💨 Tailwind CSS
+- 🎨 Material UI + React Bootstrap
+- 🔁 React Router v6
+
+## 📦 Installation
+
+```
+bash
+git clone https://github.com/your-username/bhopal-canteen.git
+cd bhopal-canteen
+npm install
+npm run dev
+```
 --------------------------
-# Project setup --->>
+```
+src/
+├── components/
+├── pages/
+├── redux/
+├── assets/
+├── App.jsx
+├── main.jsx 
+```
+-----------------
+# Project setup (installations)--->>
 ```
 npm create vite@latest
 cd 
@@ -7,11 +47,6 @@ npm i
 react-bootstrap.com => npm install react-bootstrap bootstrap
 npm i react-router-dom
  material UI installation by npm ( visit site- documentation)
-```
--------------------------
-# INSTALL NODE MODULES ! 
-```
-npm i
 ```
 ------------------------------
 
