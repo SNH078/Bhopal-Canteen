@@ -30,13 +30,27 @@ npm run dev
 ```
 --------------------------
 ```
-src/
-├── components/
-├── pages/
-├── redux/
-├── assets/
-├── App.jsx
-├── main.jsx 
+project-root/
+├── public/
+├── src/
+│   ├── components/
+│   │   ├── Cards.jsx
+│   │   ├── CardsData.js
+│   │   ├── CardsDetails.jsx
+│   │   ├── Header.jsx
+│   │   └── style.css
+│   ├── redux/
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── store.js
+├── .gitignore
+├── README.md
+├── eslint.config.js
+├── index.html
+├── package-lock.json
+├── package.json
+└── vite.config.js
+
 ```
 -----------------
 # Project setup (installations)--->>
