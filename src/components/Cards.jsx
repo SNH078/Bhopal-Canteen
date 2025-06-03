@@ -11,7 +11,7 @@ const Cards = () => {
   const [data, setData] = useState(Cardsdata);
   // console.log(data);
 
-
+ // console.log(data);
   const dispatch = useDispatch();
 
 
